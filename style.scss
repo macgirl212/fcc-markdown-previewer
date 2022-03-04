@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+#root {
+    padding-top: 1.2em;
+}
+
+#editor {
+    background-color: black;
+    color: green;
+    font-size: 1.1em;
+    font-family: monospace;
+    border: none;
+    caret-color: green;
+    outline: none;
+}
+
+#preview {
+    background-color: rgb(226, 242, 247);
+    border: 1px solid grey;
+    border-radius: 1.3em;
+}
