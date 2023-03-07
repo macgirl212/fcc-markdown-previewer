@@ -1,6 +1,6 @@
 # fcc-markdown-previewer
 
-![Home Page](./preview.png)
+![Preview image](./preview.png)
 
 This was made as part of the freeCodeCamp Front End Development Libraries curriculum.
 
